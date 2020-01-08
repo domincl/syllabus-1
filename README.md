@@ -325,11 +325,11 @@ This class assumes you are confident with this material, but in case you need a 
 * Class Participation – 30%
 * Homework – 70%
 
-## Statements on Plagiarism
-
-# Attendance Policy
+## Attendance Policy
 
 Acitive participation is mandatory. 
+
+## Statements on Plagiarism
 
 ### SCPS
 
